@@ -8,7 +8,6 @@ Click==7.0
 cryptography==1.2.3
 dnspython==1.16.0
 ecdsa==0.13
-enum34==1.1.2
 Flask==1.0.2
 funcsigs==1.0.2
 gyp==0.1
