@@ -12,4 +12,4 @@ def client():
 
 def test_add(client):
     rv = client.get('/add?num1=2&num2=2')
-    assert '4' in rv.data
+    assert b'4' in rv.data
