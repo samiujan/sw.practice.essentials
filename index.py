@@ -16,4 +16,4 @@ def hello_world():
     return str(addNumbers(num1, num2))
 
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)
